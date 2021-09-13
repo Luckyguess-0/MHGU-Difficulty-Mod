@@ -1,0 +1,9 @@
+~1.0 Changes:
+*Raw and Defense has been lowered universally; time to suck in thoses guts.
+*Element has been raised universally; it doesn't suck as much.
+*Certain styles (you know who you are) make it too easy to escape a monster¡¦s attacks and have further lowered defense; But you weren't getting hit anyway right?
+*Certain slow weapons have increased element; Element spin hammer build here I come.
+*Certain weapons that have been abused by capcom for years have had small buffs applied. These buffs still place the weapon below unmodded values; All 2 gunlance players rejoice.
+*Crit Eye/Crit Boost is not overwhelmingly the best skill to go for now; Guess you actually have to make a set now.
+*I didn't do anything to prowlers; they still hit like pussies. Maybe I'll do a standalone buff for them one day.
+*Some other stuff I keep in my real notes; poorly outwardly documented and confusing is the true monster hunter way.

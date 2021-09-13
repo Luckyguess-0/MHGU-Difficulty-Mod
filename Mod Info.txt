@@ -1,0 +1,23 @@
+~Description: 
+Wyverian Blacksmiths the world over are worried. Styles, Hunting Arts, and Critical Strikes are allowing more hunters than ever to take down monsters in far greater numbers. Having vowed to keep the balance after the last dragon war they have set off to "Give hunters a greater challenge"
+
+This mod/cheat code whatever has 3 goals: 
+*To provide a challenge for solo players or duo players.
+*To make three and four player hunts less of a gangbang.
+*Act as a semi balance patch for less used 'elements' of the game.
+
+It works for every rank and you could even start a new game with it on for hard mode if you wanted. It works online and does not affect other players in any way. So, if you have it and they don't no problem. Skills, arts, hunting horn songs, berries, etc. all work without a problem and act as expected. More detailed information is in the change log if you want to read it.
+ 
+~How to use:
+Paste the text file into the cheat folder in /atmosphere/contents/0100770008DD8000/cheats. If you already have a file there append this to the end.
+After starting a hunt hold Minus and tap A. You can activate it in the village to strategize but normal values will reset when loading a hunt.
+To deactivate change your gear, style, or load a hunt.
+If you don't press Minus and A nothing happens making it safe to auto run cheats for that sweet 60 fps normal gameplay. If you don't have the 60-fps mod stop reading this and get that.
+
+~Known issues:
+This version originally wasn't going to be a release candidate until was able to fix a few issues, but fixing them would require more knowledge on my part on some of the advanced code types for atmosphere. Documentation is kind of light and asking for help got people telling me to let them know if I figured it out...I'm working on it. Still figuring out the balance of certain things too.
+
+*If I hold minus and A the code runs multiple times makings stats plummet.
+Solution: Don't do that. Also just reset your gear if your in village. In a quest there is no current way to fix. In the future it will only run once with a reset that can be used at any time.
+
+~TLDR: New meta? Alchemy Element Gunlance obviously.
